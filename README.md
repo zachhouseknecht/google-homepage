@@ -1,0 +1,1 @@
+This will be a mini-project in which I deconstruct a web page and rebuild it. I should be showing off my ability to utilize web developer tools as well as the git command to modify and store files on my Github repository. This README.md is the first file in the repository and has been created using VSCode on a Linux Virtual Machine.
